@@ -1,0 +1,4 @@
+# Git Ignore files
+
+node_modules
+.env
